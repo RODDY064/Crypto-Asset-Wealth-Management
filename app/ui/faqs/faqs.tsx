@@ -124,4 +124,3 @@ const FAQCard = ({
   );
 };
 
-git remote add origin https://github.com/Crypto-Asset-Wealth-Management.git
